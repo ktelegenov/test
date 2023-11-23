@@ -1,5 +1,6 @@
 {
   "name": "test",
+  "homepage": "https://ktelegenov.github.io/test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
